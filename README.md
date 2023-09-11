@@ -1,6 +1,7 @@
 # Kalindu Chathuranga's Personal Portfolio
 
-![Portfolio Screenshot]()
+![Portfolio Screenshot](src/assets/img/scrennshot.png)
+
 
 
 Welcome to my personal portfolio website built with React, JavaScript, HTML, and CSS.
