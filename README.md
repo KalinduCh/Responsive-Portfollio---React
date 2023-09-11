@@ -2,14 +2,11 @@
 
 ![Portfolio Screenshot](src/assets/img/scrennshot.png)
 
-
-
 Welcome to my personal portfolio website built with React, JavaScript, HTML, and CSS.
 
 ## Table of Contents
 
 - [About](#about)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,11 +17,6 @@ Welcome to my personal portfolio website built with React, JavaScript, HTML, and
 
 This portfolio showcases my skills, projects, and experiences as a software developer. It serves as a central hub for anyone interested in learning more about me and my work.
 
-## Demo
-
-You can visit my portfolio website here: [Portfolio Link](insert_demo_link_here)
-
-![Portfolio Demo](insert_gif_or_screenshot_here)
 
 ## Technologies Used
 
@@ -41,3 +33,13 @@ To run this portfolio website locally, follow these steps:
 
    ```bash
    git clone https://github.com/KalinduCh/Responsive-Portfollio---React.git
+
+cd Responsive-Portfollio---React
+
+## Usage
+Explore my projects, skills, and experiences.
+Get in touch with me using the provided contact information.
+Enjoy the responsive design that adapts to various screen sizes.
+
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
