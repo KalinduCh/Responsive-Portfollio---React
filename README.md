@@ -1,4 +1,4 @@
-# Kalindu Chathuranga's Personal Portfolio
+# Kalindu Chamikara's Personal Portfolio
 
 ![Portfolio Screenshot](src/assets/img/scrennshot.png)
 
