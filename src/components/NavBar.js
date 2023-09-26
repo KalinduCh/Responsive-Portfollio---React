@@ -44,13 +44,22 @@ const NavBar = () => {
                     </Nav>
 
                     <span className='navbar-text'>
-                        <div className='social-icon'>
-                            <a href='https://lk.linkedin.com/'><img src={navicon1} alt=""/></a>
-                            <a href='https://www.instagram.com/'><img src={navicon3} alt=""/></a>
-                            <a href='https://www.facebook.com/'><img src={navicon2} alt=""/></a>
-                        </div>
-                        <button className='vvd' onClick={() => console.log("connect")}><span>Let's Connect</span></button>
+                    <div className='social-icon'>
+                        <a href='https://www.linkedin.com/in/kalindu-athapaththu-342a001a9/'><img src={navicon1} alt="LinkedIn" /></a>
+                        <a href='https://www.behance.net/kalinduathapat'><img src={navicon3} alt="Behance" /></a>
+                        <a href='https://www.facebook.com/your-facebook-profile-url'><img src={navicon2} alt="Facebook" /></a>
+                    </div>
+                    <button
+                        className='vvd'
+                        onClick={() => {
+                        const whatsappURL =
+                            'https://wa.me/94772137638?text=Hello!%20Welcome%20to%20my%20portfolio.%20%0AHow%20Can%20I%20Help%20You%20%3F';
+                        window.location.href = whatsappURL;
+                        }}>
+                        <span>Let's Connect</span>
+                    </button>
                     </span>
+
                 </Navbar.Collapse>
             </Container>
         </Navbar>
